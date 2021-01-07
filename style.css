@@ -1,0 +1,24 @@
+body{
+	background-color: white;
+	text-align:center;
+}
+#main{
+	width:800px;
+	height:500px;
+	background: yellow;
+	margin:25px auto;
+	border: solid 2px red;
+	padding:10px;
+	
+	
+	
+}
+h1 {
+	text-align:left;
+	font-family:"Times New Roman";
+	font:24pt;
+	color: red;
+	
+}
+
+
